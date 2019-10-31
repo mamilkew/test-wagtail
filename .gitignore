@@ -1,0 +1,13 @@
+*~
+*.pyc
+.DS_Store
+/.coverage
+/myvenv
+*.idea/
+/*.egg/
+/.cache/
+/.pytest_cache/
+
+### JetBrains
+.idea/
+coverage/
